@@ -1,8 +1,0 @@
-80efa67 Completed Task 2: resolved 4 data integrity issues (missing values, duplicates, inconsistent text, invalid member_id)
-2b27b47 Task 1 done: merged members, checkouts, book catalog, and Kickoff data into one dataset
-8fd9d71 Initial setup: connected notebook to GitHub
-dafea1b Added git log file
-2c361f2 Completed Task 2: resolved 4 data integrity issues (missing values, duplicates, inconsistent text, invalid member_id)
-aaf1aa3 Task 1 done: merged members, checkouts, book catalog, and Kickoff data into one dataset
-9f2dd1f Remove unrelated system files and source files from repo
-86f86ea Initial setup: connected notebook to GitHub
